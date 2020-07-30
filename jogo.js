@@ -39,7 +39,6 @@ const planoDeFundo = {
   },
 };
 
-// [Chao]
 function criaChao() {
   const chao = {
     spriteX: 0,
